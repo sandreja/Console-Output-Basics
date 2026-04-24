@@ -1,5 +1,3 @@
-Ispisivanje Podataka / Printing Data
-
 EN
 
 A simple introductory Java exercise focused on basic output commands and string manipulation. The program uses static variables to perform arithmetic and demonstrates basic string methods.
